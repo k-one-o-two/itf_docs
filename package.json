@@ -1,0 +1,32 @@
+{
+  "name": "itf_docs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-one-o-two/itf_docs.git"
+  },
+  "author": "k102",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-one-o-two/itf_docs/issues"
+  },
+  "homepage": "https://github.com/k-one-o-two/itf_docs#readme",
+  "dependencies": {
+    "next": "^13.4.19",
+    "nord": "^0.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.66.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.3",
+    "typescript": "5.1.6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack-390acd03578a0c03.js",
+      "static/chunks/fd9d1056-a99b58d3cc150217.js",
+      "static/chunks/596-9d43875837bd0b65.js",
+      "static/chunks/main-app-8d538e1f8a5d53a5.js",
+      "static/css/774cc83957127559.css",
+      "static/chunks/app/layout-78f9c70f4c57c362.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-390acd03578a0c03.js",
+      "static/chunks/fd9d1056-a99b58d3cc150217.js",
+      "static/chunks/596-9d43875837bd0b65.js",
+      "static/chunks/main-app-8d538e1f8a5d53a5.js",
+      "static/chunks/685-a8c11ad368fada34.js",
+      "static/chunks/app/page-bc1144c0cd6d05fa.js"
+    ],
+    "/articles/why/page": [
+      "static/chunks/webpack-390acd03578a0c03.js",
+      "static/chunks/fd9d1056-a99b58d3cc150217.js",
+      "static/chunks/596-9d43875837bd0b65.js",
+      "static/chunks/main-app-8d538e1f8a5d53a5.js",
+      "static/chunks/685-a8c11ad368fada34.js",
+      "static/chunks/app/articles/why/page-6f4598873b71e4ef.js"
+    ],
+    "/articles/why/sisu/page": [
+      "static/chunks/webpack-390acd03578a0c03.js",
+      "static/chunks/fd9d1056-a99b58d3cc150217.js",
+      "static/chunks/596-9d43875837bd0b65.js",
+      "static/chunks/main-app-8d538e1f8a5d53a5.js",
+      "static/chunks/app/articles/why/sisu/page-42f9431db1f8ea36.js"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+@import "node_modules/nord/src/sass/nord.scss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto+Mono:wght@700&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  background-color: $nord4;
+  color: $nord5;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.card {
+    margin-top: 10px;
+    border: 1px solid $nord6;
+    background: $nord6 !important;
+    border-radius: 0 !important;
+    color: $nord3 !important;
+    box-shadow: none !important;
+    clip-path: polygon(0 0,calc(100% - 40.00px) 0,100% 40.00px,100% 100%,0 100%);
+    width: unset !important;
+    padding: 24px;
+}
