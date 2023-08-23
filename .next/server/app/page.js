@@ -256,71 +256,76 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function Page() {
-    return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
-        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("ul", {
-            children: [
-                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
-                    children: [
-                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {
-                            href: "articles/why",
-                            children: "#почему_финляндия"
-                        }),
-                        " — почему Финляндия лучшая страна для переезда;"
-                    ]
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#рекрутинг_советы — советы по поиску работы от рекрутёров;"
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#сбор_документов_РФ — нюансы сбора документов в РФ; "
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#vero — по этому тегу можно найти всё про налоги в Финляндии; "
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#квартирный_вопрос — аренда и покупка жилья, районы и города;"
-                }),
-                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
-                    children: [
-                        "#банки — лайфхаки по открытию счёта и получению банковских кодов;",
-                        " "
-                    ]
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#адаптация_партнёра — кем может работать партнёр, переезжающий с IT-специалистом, какие пособия положены;"
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#дети_в_финляндии — про детские сады, школы, пособия для детей и мам;"
-                }),
-                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
-                    children: [
-                        "#переезд_с_питомцем — необходимые документы и нюансы въезда в Финляндию с животными",
-                        " "
-                    ]
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#расходы –- каких примерно ожидать расходов после переезда,"
-                }),
-                "сколько нужно денег на первое время;",
-                " ",
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#медицина — как работает медицина в Финляндии; "
-                }),
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#полезные_организации — профсоюзы, касса взаимопомощи,"
-                }),
-                "страховые, церковь;",
-                " ",
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#истории_переезда — про переезд и адаптацию из"
-                }),
-                "первых уст;",
-                " ",
-                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                    children: "#финские_истории — подборка интересного про Финляндию, особенности жизни в стране, забавные случаи, как живут финны."
-                })
-            ]
-        })
+    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
+        children: [
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h1", {
+                children: "IT Finland docs"
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("ul", {
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
+                        children: [
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {
+                                href: "articles/why",
+                                children: "#почему_финляндия"
+                            }),
+                            " — почему Финляндия лучшая страна для переезда;"
+                        ]
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#рекрутинг_советы — советы по поиску работы от рекрутёров;"
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#сбор_документов_РФ — нюансы сбора документов в РФ; "
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#vero — по этому тегу можно найти всё про налоги в Финляндии; "
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#квартирный_вопрос — аренда и покупка жилья, районы и города;"
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
+                        children: [
+                            "#банки — лайфхаки по открытию счёта и получению банковских кодов;",
+                            " "
+                        ]
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#адаптация_партнёра — кем может работать партнёр, переезжающий с IT-специалистом, какие пособия положены;"
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#дети_в_финляндии — про детские сады, школы, пособия для детей и мам;"
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
+                        children: [
+                            "#переезд_с_питомцем — необходимые документы и нюансы въезда в Финляндию с животными",
+                            " "
+                        ]
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#расходы –- каких примерно ожидать расходов после переезда,"
+                    }),
+                    "сколько нужно денег на первое время;",
+                    " ",
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#медицина — как работает медицина в Финляндии; "
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#полезные_организации — профсоюзы, касса взаимопомощи,"
+                    }),
+                    "страховые, церковь;",
+                    " ",
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#истории_переезда — про переезд и адаптацию из"
+                    }),
+                    "первых уст;",
+                    " ",
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                        children: "#финские_истории — подборка интересного про Финляндию, особенности жизни в стране, забавные случаи, как живут финны."
+                    })
+                ]
+            })
+        ]
     });
 }
 
