@@ -8,6 +8,9 @@ export default function Why() {
         <li>
           <Link href="why/sisu">sisu</Link>
         </li>
+        <li>
+          <Link href="why/open">Финляндия открытая страна</Link>
+        </li>
       </ul>
     </>
   );

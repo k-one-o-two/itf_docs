@@ -1,5 +1,6 @@
 {
   "/page": "app/page.js",
   "/articles/why/page": "app/articles/why/page.js",
+  "/articles/why/open/page": "app/articles/why/open/page.js",
   "/articles/why/sisu/page": "app/articles/why/sisu/page.js"
 }
