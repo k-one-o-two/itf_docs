@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && rm -rf docs && mv out docs && touch docs/.nojekyll",
+    "nojekyll": "find docs/articles -type d -exec touch \"{}/.nojekyll\" ;",
+    "build": "next build && next export && rm -rf docs && mv out docs && npm run nojekyll",
     "start": "next start"
   },
   "repository": {
