@@ -7,7 +7,8 @@
     "dev": "next dev",
     "nojekyll": "find docs/articles -type d -exec touch \"{}/.nojekyll\" ;",
     "build": "next build && next export && rm -rf docs && mv out docs && npm run nojekyll",
-    "start": "next start"
+    "start": "next start",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
   "devDependencies": {
     "@types/node": "20.5.3",
     "@types/react": "^18.2.21",
+    "husky": "^8.0.3",
     "typescript": "5.1.6"
   }
 }

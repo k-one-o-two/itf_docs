@@ -3,6 +3,7 @@ import Link from 'next/link';
 export default function Page() {
   return (
     <>
+      <h1>IT Finland docs</h1>
       <ul>
         <li>
           <Link href="articles/why">#почему_финляндия</Link> — почему Финляндия
